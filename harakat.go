@@ -1,4 +1,4 @@
-package data
+package main
 
 const (
 	arabicFathatan rune = 0x064B
